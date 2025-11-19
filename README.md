@@ -1,6 +1,7 @@
 <!-- =============================== -->
 <!-- Animated Matrix Background -->
 <!-- =============================== -->
+
 ![Matrix SVG](./assets/matrix.svg)
 
 <!-- =============================== -->
@@ -41,9 +42,10 @@ height="45" width="45"/>, I'm Masum Islam Badsha</h1>
 <!-- =============================== -->
 <!-- About Section -->
 <!-- =============================== -->
+
 ## About Me
 
-I am a dedicated **Full Stack Developer** focused on building *fast, scalable, and user-friendly web applications.* With a strong passion for *clean architecture, modern development practices, and responsive UI/UX,* I enjoy transforming complex requirements into smooth, efficient, and production-ready solutions.
+I am a dedicated **Full Stack Developer** focused on building _fast, scalable, and user-friendly web applications._ With a strong passion for _clean architecture, modern development practices, and responsive UI/UX,_ I enjoy transforming complex requirements into smooth, efficient, and production-ready solutions.
 
 **Mission:** To grow as a MERN Stack Full-Stack Developer by building scalable, efficient, and user-focused web applications — while continuously improving my problem-solving, backend architecture, and modern frontend development skills.
 
@@ -58,6 +60,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 <!-- =============================== -->
 <!-- Tech Stack Icons -->
 <!-- =============================== -->
+
 ## Tech Stack
 
 <p align="center">
@@ -67,6 +70,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 </p>
 
 ---
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
@@ -74,6 +78,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 <!-- =============================== -->
 <!-- GitHub Stats Section -->
 <!-- =============================== -->
+
 ## GitHub Stats
 
 <p align="center">
@@ -83,6 +88,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 </p>
 
 ---
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
@@ -97,6 +103,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 <!-- =============================== -->
 <!-- Pinned Projects (Update these with your best repos) -->
 <!-- =============================== -->
+
 ## Pinned Projects
 
 <p align="center">
@@ -109,6 +116,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 </p>
 
 ---
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
@@ -120,6 +128,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 </p>
 
 ---
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
@@ -131,6 +140,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 </p>
 
 ---
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
@@ -142,27 +152,34 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 </p>
 
 ---
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## Working Mode Activated
-
-<p align="center">
-  <img src="./assets/animated.gif" width="90%" />
-</p>
-
 ---
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
 ## Watch My Contributions Come Alive!
 
+## Watch My Contributions Come Alive!
+
 > See how my GitHub contributions slither into action!
 
-<img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake Animation"/>
+</p>
 
+<!-- Dark mode version (auto switches with GitHub theme) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake Animation"/>
+  </picture>
+</p>
 ---
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -183,6 +200,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 </p>
 
 ---
+
 <div align="center">
   <b>Made with ❤️ by Masum Islam Badsha © All Rights Reserved 2025</b>
 </div>
