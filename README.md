@@ -174,44 +174,11 @@ A visually engaging and intuitive habit tracking app that empowers users to buil
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-Markdown## Watch My Contributions Come Alive!
+## Watch My Contributions Come Alive!
 
-> See how my GitHub contributions slither into action!
-
+## 🐍 My Contributions Snake
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake Animation"/>
-  </picture>
-</p>
-
-> See how my GitHub contributions slither into action!
-
-
-<!-- Dark mode version (auto switches with GitHub theme) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake Animation"/>
-  </picture>
-</p>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-## Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/masumislambadsha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:masumislambadsha@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/masumislambadsha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
