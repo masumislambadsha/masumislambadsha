@@ -165,13 +165,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 
 ## Watch My Contributions Come Alive!
 
-## Watch My Contributions Come Alive!
-
 > See how my GitHub contributions slither into action!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake Animation"/>
-</p>
 
 <!-- Dark mode version (auto switches with GitHub theme) -->
 <p align="center">
