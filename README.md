@@ -72,6 +72,18 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/masumislambadsha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/masumislambadsha" target="_blank"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" alt="X/Twitter"></a>
+  <a href="mailto:masumislambadsha@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/masumislambadsha" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+</p>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <!-- =============================== -->
 <!-- GitHub Stats Section -->
@@ -108,25 +120,29 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 ## 📌 Pinned Projects
 
 ### [Hero App](https://github.com/masumislambadsha/hero-app)
+
 A feature-rich web application that enables users to create, manage, and track tasks with superhero-like efficiency. The app offers a powerful dashboard, personalized productivity tools, and analytics for daily improvement.
-> **Live Link:** [Live Demo](https://hero-app.example.com)
-> **Tech Stack:** React.js, Redux, Node.js, Express, MongoDB, Tailwind CSS
+
+> **Live Link:** [Live Demo](https://hero-app.example.com) > **Tech Stack:** React.js, Redux, Node.js, Express, MongoDB, Tailwind CSS
 
 ---
 
 ### [3D Models Client](https://github.com/masumislambadsha/3d-models-client)
+
 A client-side platform for viewing, sharing, and managing 3D models. Upload, explore, and interact with real-time 3D content—perfect for designers, architects, and hobbyists. Features an immersive viewer with modern UI.
-> **Live Link:** [Live Demo](https://3d-models-client.example.com)
-> **Tech Stack:** React.js, Three.js, Redux, Tailwind CSS
+
+> **Live Link:** [Live Demo](https://3d-models-client.example.com) > **Tech Stack:** React.js, Three.js, Redux, Tailwind CSS
 
 ---
 
 ### [Habit Trackter Client](https://github.com/masumislambadsha/habit-trackter-client)
+
 A visually engaging and intuitive habit tracking app that empowers users to build and maintain positive habits. Features daily/weekly tracking, motivational analytics, and streak visualization.
-> **Live Link:** [Live Demo](https://habit-trackter-client.example.com)
-> **Tech Stack:** React.js, Context API, Tailwind CSS, Chart.js
+
+> **Live Link:** [Live Demo](https://habit-trackter-client.example.com) > **Tech Stack:** React.js, Context API, Tailwind CSS, Chart.js
 
 ---
+
 ---
 
 <h3 align="center">
@@ -174,6 +190,7 @@ A visually engaging and intuitive habit tracking app that empowers users to buil
 ## Watch My Contributions Come Alive!
 
 ## 🐍 My Contributions Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake animation" />
 </p>
