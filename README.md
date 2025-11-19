@@ -1,8 +1,6 @@
-<!-- =============================== -->
-<!-- Animated Matrix Background -->
-<!-- =============================== -->
-
-![Matrix SVG](./assets/matrix.svg)
+<p align="center">
+  <img src="https://i.ibb.co.com/sdm7XxPC/generated-image-1.jpg" alt="Banner" width="100%">
+</p>
 
 <!-- =============================== -->
 <!-- Intro Heading with Titles -->
