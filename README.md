@@ -104,17 +104,28 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 <!-- Pinned Projects (Update these with your best repos) -->
 <!-- =============================== -->
 
-## Pinned Projects
+## 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/masumislambadsha/Your-Best-Repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masumislambadsha&repo=Your-Best-Repo-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/masumislambadsha/Your-Best-Repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masumislambadsha&repo=Your-Best-Repo-2&theme=tokyonight" />
-  </a>
-</p>
+### [Hero App](https://github.com/masumislambadsha/hero-app)
+A feature-rich web application that enables users to create, manage, and track tasks with superhero-like efficiency. The app offers a powerful dashboard, personalized productivity tools, and analytics for daily improvement.
+> **Live Link:** [Live Demo](https://hero-app.example.com)
+> **Tech Stack:** React.js, Redux, Node.js, Express, MongoDB, Tailwind CSS
 
+---
+
+### [3D Models Client](https://github.com/masumislambadsha/3d-models-client)
+A client-side platform for viewing, sharing, and managing 3D models. Upload, explore, and interact with real-time 3D content—perfect for designers, architects, and hobbyists. Features an immersive viewer with modern UI.
+> **Live Link:** [Live Demo](https://3d-models-client.example.com)
+> **Tech Stack:** React.js, Three.js, Redux, Tailwind CSS
+
+---
+
+### [Habit Trackter Client](https://github.com/masumislambadsha/habit-trackter-client)
+A visually engaging and intuitive habit tracking app that empowers users to build and maintain positive habits. Features daily/weekly tracking, motivational analytics, and streak visualization.
+> **Live Link:** [Live Demo](https://habit-trackter-client.example.com)
+> **Tech Stack:** React.js, Context API, Tailwind CSS, Chart.js
+
+---
 ---
 
 <h3 align="center">
@@ -163,7 +174,16 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## Watch My Contributions Come Alive!
+Markdown## Watch My Contributions Come Alive!
+
+> See how my GitHub contributions slither into action!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake Animation"/>
+  </picture>
+</p>
 
 > See how my GitHub contributions slither into action!
 
@@ -175,7 +195,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
     <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake Animation"/>
   </picture>
 </p>
----
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>

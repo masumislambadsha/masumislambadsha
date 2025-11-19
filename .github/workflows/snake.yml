@@ -2,30 +2,38 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [ main ]
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    permissions:
+      contents: write           # Needed to push to output branch
+      pages: write
+      id-token: write
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: masumislambadsha
           outputs: |
-            output/snake.svg
-            output/snake-dark.svg?palette=github-dark
-            output/ocean.gif?color_snake=orange&color_dots=#151515,#0e4429,#006d32,#26a641,#39d353
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push snake to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git --work-tree dist add --all
+          git --work-tree dist commit -m "Update snake $(date)"
+          git push -f origin HEAD:output
