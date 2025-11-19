@@ -101,6 +101,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 <!-- =============================== -->
 <!-- Pinned Projects (Update these with your best repos) -->
 <!-- =============================== -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ## 📌 Pinned Projects
 
@@ -167,10 +170,6 @@ A visually engaging and intuitive habit tracking app that empowers users to buil
 </h3>
 
 ---
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 ## Watch My Contributions Come Alive!
 
