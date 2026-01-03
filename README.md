@@ -189,13 +189,16 @@ A visually engaging and intuitive habit tracking app that empowers users to buil
 
 ---
 
-## Watch My Contributions Come Alive!
+## 🐍 Watch My Contributions Come Alive!
 
-## 🐍 My Contributions Snake
+> See how my GitHub contributions slither into action!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/masumislambadsha/masumislambadsha/output/snake.svg" alt="Snake animation" />
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ---
 
