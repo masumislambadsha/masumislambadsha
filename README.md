@@ -94,9 +94,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masumislambadsha&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masumislambadsha&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumislambadsha&layout=compact&theme=tokyonight" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=masumislambadsha&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=masumislambadsha&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=masumislambadsha&layout=compact&theme=radical)
 </p>
 
 ---
