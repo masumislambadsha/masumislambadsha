@@ -94,9 +94,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 ## GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=masumislambadsha&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=masumislambadsha&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=masumislambadsha&layout=compact&theme=radical)
+  <!-- Use canonical github-readme-stats endpoints and HTML <img> tags to avoid Markdown being shown as literal text -->
+  <img src="https://github-readme-stats.vercel.app/api?username=masumislambadsha&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/streak?username=masumislambadsha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumislambadsha&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
