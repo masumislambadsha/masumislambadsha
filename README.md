@@ -9,7 +9,7 @@
 alt="Waving hand animated gif"
 height="45" width="45"/>, I'm Masum Islam Badsha</h1>
 <h3 align="center">MERN Stack Developer | Next.js Developer | Lifelong Learner</h3>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 <!-- =============================== -->
 <!-- Divider -->
