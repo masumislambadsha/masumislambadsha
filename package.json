@@ -2,6 +2,11 @@
   "name": "github-stats-terminal-style",
   "version": "1.0.0",
   "description": "Generate Github Stats as like Terminal Interface with typing effects dynamically for your profile Readme",
+  "main": "dist/updater.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/updater.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/obaidullah-miazi-dev/github-stats-terminal-style.git"
@@ -22,5 +27,10 @@
   "dependencies": {
     "@octokit/rest": "^18.10.0",
     "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/nunjucks": "^3.2.0",
+    "typescript": "^5.0.0"
   }
 }
