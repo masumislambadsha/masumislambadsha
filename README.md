@@ -117,35 +117,48 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/masumislambadsha)!
 <!-- =============================== -->
 <!-- Pinned Projects (Update these with your best repos) -->
 <!-- =============================== -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+<!-- Paste this HTML snippet into a README or a profile widget that accepts HTML -->
+<section>
+  <h2>📌 Pinned Projects</h2>
 
-## 📌 Pinned Projects
+  <article>
+    <h3><a href="https://github.com/masumislambadsha/taskhub">Task Hub (taskhub)</a></h3>
+    <p>A task management platform built for fast, focused productivity. Task Hub provides a clean dashboard to create, organize, and track tasks across projects with priority and status tracking. The app emphasizes responsive UX and performance so users can manage work on any device.</p>
+    <ul>
+      <li>Live: <a href="https://task-hub-io.vercel.app">task-hub-io.vercel.app</a></li>
+      <li>Repo: <a href="https://github.com/masumislambadsha/taskhub">github.com/masumislambadsha/taskhub</a></li>
+      <li>Tech: React.js, Node.js, Express, MongoDB, Tailwind CSS</li>
+      <li>Features: Authentication, CRUD tasks, interactive dashboard, responsive UI</li>
+    </ul>
+  </article>
 
-### [Hero App](https://github.com/masumislambadsha/hero-app)
+  <hr/>
 
-A feature-rich web application that enables users to create, manage, and track tasks with superhero-like efficiency. The app offers a powerful dashboard, personalized productivity tools, and analytics for daily improvement.
+  <article>
+    <h3><a href="https://github.com/masumislambadsha/care-io">Care IO (care-io)</a></h3>
+    <p>Care IO is a healthcare-focused web app designed to simplify appointment management for patients and providers. It provides booking and appointment flows, patient profile handling, and an interface optimized for accessibility and responsiveness. The project focuses on practical workflows to improve scheduling reliability.</p>
+    <ul>
+      <li>Live: <a href="https://get-care.vercel.app">get-care.vercel.app</a></li>
+      <li>Repo: <a href="https://github.com/masumislambadsha/care-io">github.com/masumislambadsha/care-io</a></li>
+      <li>Tech: React.js, Node.js, Express, MongoDB, Tailwind CSS</li>
+      <li>Features: Appointment booking, profile management, accessible/responsive UI</li>
+    </ul>
+  </article>
 
-> **Live Link:** [Live Demo](https://hero-app.example.com) > **Tech Stack:** React.js, Redux, Node.js, Express, MongoDB, Tailwind CSS
+  <hr/>
 
----
-
-### [3D Models Client](https://github.com/masumislambadsha/3d-models-client)
-
-A client-side platform for viewing, sharing, and managing 3D models. Upload, explore, and interact with real-time 3D content—perfect for designers, architects, and hobbyists. Features an immersive viewer with modern UI.
-
-> **Live Link:** [Live Demo](https://3d-models-client.example.com) > **Tech Stack:** React.js, Three.js, Redux, Tailwind CSS
-
----
-
-### [Habit Trackter Client](https://github.com/masumislambadsha/habit-trackter-client)
-
-A visually engaging and intuitive habit tracking app that empowers users to build and maintain positive habits. Features daily/weekly tracking, motivational analytics, and streak visualization.
-
-> **Live Link:** [Live Demo](https://habit-trackter-client.example.com) > **Tech Stack:** React.js, Context API, Tailwind CSS, Chart.js
-
----
+  <article>
+    <h3><a href="https://github.com/masumislambadsha/style-decor-client">Style Decor (client & server)</a></h3>
+    <p>Style Decor is an e-commerce/styling demo with separate client and server repositories. The client provides a polished storefront for browsing and selecting products; the server handles product APIs and data management. This split showcases frontend-backend integration and deployable hosting.</p>
+    <ul>
+      <li>Live: <a href="https://style-decor-5b2fb.web.app/">style-decor-5b2fb.web.app</a></li>
+      <li>Client repo: <a href="https://github.com/masumislambadsha/style-decor-client">github.com/masumislambadsha/style-decor-client</a></li>
+      <li>Server repo: <a href="https://github.com/masumislambadsha/style-decor-server">github.com/masumislambadsha/style-decor-server</a></li>
+      <li>Tech: React.js, Firebase / Node.js, Tailwind CSS</li>
+      <li>Features: Product listing, backend APIs, responsive storefront</li>
+    </ul>
+  </article>
+</section>
 
 ---
 
