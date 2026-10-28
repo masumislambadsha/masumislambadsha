@@ -35,7 +35,7 @@ Caregiver booking platform: families book verified caregivers and pay with Strip
 Job application tracker with a Kanban pipeline, follow-up reminders, callback rates per resume, Google Sheets sync and an MCP server so Claude can manage applications from chat.
 `Next.js` `TypeScript` `Prisma` `MongoDB` `MCP`
 
-**[Office Attendance System](https://github.com/masumislambadsha/app)**
+**[Office Attendance System](https://github.com/masumislambadsha/office-attendance-system)**
 QR check-in with single-use signed codes and a geofence, so staff can only clock in at the office, plus leave and payroll.
 `Next.js` `TypeScript` `MongoDB`
 
